@@ -1,4 +1,6 @@
-Programming0-1
-==============
+Programming0-Secret
+===================
 
-First edition of Programming 0
+За подготовка на курса
+
+* Подготовка за курс.
