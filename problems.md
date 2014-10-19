@@ -123,7 +123,7 @@ family_name = "Georgiev"
 
 * `"Python" + 3`
 * `"Python" - 3`
-* `"Python"` * 3`
+* `"Python" * 3`
 * `"Python" * "Python"`
 * `"1" + 1`
 * `"Python" + "Python"`
