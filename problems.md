@@ -80,3 +80,96 @@
 Напишете 10 израза в RELP-то, така че `x` да придобие стойност `10`.
 
 Подксазка: `x = x + 1`
+
+## Част трета - как да пишем текст? Низове.
+
+### Как се казваш?
+
+Използвайки променливи в Python, направете:
+
+* Променлива `first_name`, която да държи първото ти име
+* Променлива `middle_name`, за бащиното име
+* Променлива `family_name`, за фамилията
+
+Използвайки тези 3 променливи, напишете такъв израз, който да изкара цял низ, съдържаш 3те имена, с разстояние между тях.
+
+Например, ако имаме:
+
+```python
+first_name = "Radoslav"
+middle_name = "Yordanov"
+family_name = "Georgiev"
+```
+
+То резултатът накрая трябва да бъде:
+
+```python
+"Radoslav Yordanov Georgiev"
+```
+
+### Колко букви има в следните изрази?
+
+Използвайки интерпретатора на Python и вградената функция `len`, намерете колко букви има в следните изрази:
+
+* `чичковите червенотиквеничковчета`
+* `Непротивоконституционствувателствувайте`
+* `Python е швейцарско ножче в езиците за програмиране`
+
+**Внимавайте за празните разстояния. Те не са букви!**
+
+### Операции между низове и числа.
+
+В интерпретатора на Python, напишете следните изрази. Преди да ги напишете, предположете какъв би бил резултатът:
+
+* `"Python" + 3`
+* `"Python" - 3`
+* `"Python"` * 3`
+* `"Python" * "Python"`
+* `"1" + 1`
+* `"Python" + "Python"`
+* `"1" + str(1)`
+
+`str` е функция, която превръща числата в низове.
+
+### Текст на песен
+
+Имаме следните променливи, които държат ред по ред на текстът на една песен:
+
+```python
+line_1 = "The pictures tell the story"
+line_2 = "This life has many shades"
+line_3 = "I’d wake up every morning and before I’d start each day"
+line_4 = "I’d take a drag from last nights cigarette"
+line_5 = "That smoldered in it’s tray"
+line_6 = "Down a little something and then be on my way"
+line_7 = "I traveled far and wide"
+line_8 = "And laid this head in many ports"
+line_9 = "I was guided by a compass"
+line_10 = "I saw beauty to the north"
+line_11 = "I drew the tales of many lives"
+line_12 = "And wore the faces of my own"
+line_13 = "I had these memories all around me"
+line_14 = "So I wouldn’t be alone"
+line_15 = "Some may be from showing up"
+line_16 = "Others are from growing up"
+line_17 = "Sometimes I was so messed up and didn’t have a clue"
+line_18 = "I ain’t winning no one over"
+line_19 = "I wear it just for you"
+line_20 = "I’ve got your name written here"
+line_21 = "In a rose tattoo"
+```
+
+Задачата е следната: целият текст трябва да се конкатенира в променлива, която се казва `rose_tattoo_text`.
+Между всеки два реда в текста, трябва да има специалния символ за нов ред - `"\n"`
+
+Използвайте следните операции:
+
+```python
+text = ""
+text = text + "Newly append text"
+text = text + "\n"
+text = text + "More appended text"
+print(text)
+```
+
+За да видите резултатът накрая, напишете следния код в интерпретатора: `print(rose_tattoo_text)`
