@@ -8,7 +8,7 @@
 
 ```python
 a = 5
-a = а + 1
+a = a + 1
 print(a)
 ```
 
@@ -20,7 +20,7 @@ print(a)
 
 * Integer (цяло число): `a = 5`
 * String (Низ, текст): `a = "Python"` - огбраждаме с кавички.
-* Boolean (Истина или лъжа): a = True (a = 5 == 5)
+* Boolean (Истина или лъжа): `a = True` (`a = 5 == 5`)
 
 **В Python няма нищо, което може да стане имплицитно (Помните ли тази дума?)**
 
@@ -77,6 +77,19 @@ else:
 
 Където `expression` е нещо, което се свежда до булева стойност. Вижте това -https://github.com/HackBulgaria/Programming0-1/blob/master/problems.md#%D0%A7%D0%B0%D1%81%D1%82-%D1%87%D0%B5%D1%82%D0%B2%D1%8A%D1%80%D1%82%D0%B0-%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%B0-%D0%B8-%D0%9B%D1%8A%D0%B6%D0%B0
 
+if-a има и конструкция, която ни позволява да вземем повече от 1 решение:
+
+```python
+if expression1:
+    print("This is executed when expression1 is True")
+elif expression2:
+    print("This is executed when expression2 is True")
+elif expression3:
+    print("This is executed when expression3 is True")
+else:
+    print("This is executed when expression1, 2 and 3 are False")
+```
+
 ## Неща за продължаване
 
 За да продължите да пишете Python, ние препоръчваме 2 неща:
@@ -84,4 +97,4 @@ else:
 * Книгата Learn Python The Hard Way - http://learnpythonthehardway.org/book/
 * Codecademy с Python - http://www.codecademy.com/tracks/python
 
-** Курсът по Програмиране 0 ще започне Януари месец 2015. Ще пишем допълнтелно за това :)**
+**Курсът по Програмиране 0 ще започне Януари месец 2015. Ще пишем допълнтелно за това :)**
