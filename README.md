@@ -9,7 +9,7 @@ Programming0
 
 Може да разгледате материалите от него в тази папка:
 
-* В [`setup.md`](https://github.com/HackBulgaria/Programming0-1/blob/master/setup.md) има информация за инсталация на Python и Sublime
-* В [`problems.md`](https://github.com/HackBulgaria/Programming0-1/blob/master/problems.md) има задачи за решаване
-* В [`summary.md`](https://github.com/HackBulgaria/Programming0-1/blob/master/summary.md) има обобщение на целия ден
+* В [`setup.md`](https://github.com/HackBulgaria/Programming0-1/blob/master/EuropeCodeWeekDemo/setup.md) има информация за инсталация на Python и Sublime
+* В [`problems.md`](https://github.com/HackBulgaria/Programming0-1/blob/master/EuropeCodeWeekDemo/problems.md) има задачи за решаване
+* В [`summary.md`](https://github.com/HackBulgaria/Programming0-1/blob/master/EuropeCodeWeekDemo/summary.md) има обобщение на целия ден
 * Има и качени решения
