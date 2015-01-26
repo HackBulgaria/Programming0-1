@@ -3,11 +3,10 @@ Programming0
 
 ## Седмици на курса
 
-| Седмица | Задачи | Презентация | Видео |
-|---------|--------|-------------|-------|
-| 0       | [Задачите се намират тук](week0-Starting/README.md)      | [Линк за сваляне](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Introduction-Presentation.pdf)           | Очаква се ...     |
+| Седмица | Занятие | Задачи | Презентация | Видео |
+|---------|-------- |---------|-------------|-------|
+| 0       | Понеделник - 26.01|[Задачите се намират тук](week0-Starting/README.md)      | [Линк за сваляне](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Introduction-Presentation.pdf)           | Очаква се ...     |
 
-Курсът по Програмиране 0, който се очаква да започне през Януари 2015-та.
 
 ## Програмата
 
