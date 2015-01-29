@@ -5,8 +5,8 @@ Programming0
 
 | Седмица | Занятие | Задачи | Презентация | Видео |
 |---------|-------- |---------|-------------|-------|
-| 0       | Понеделник - 26.01|[Задачите се намират тук](week0-Starting/README.md)      | [Линк за сваляне](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Introduction-Presentation.pdf)           | [Въвеждаща лекция.](https://www.youtube.com/watch?v=goqd4awJHPA), [Работа с Python IDLE и първите задачи.](https://www.youtube.com/watch?v=xAOEKXdBvEM) |
-| 0       | Сряда - 28.01 | [Задачите се намират тук](week0-Starting/README.md) | [Линк за сваляне](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Values-Expressions-Variables-Syntax.pdf) | Очаква се ... |
+| 0       | Понеделник - 26.01|[Задачите се намират тук](week0-Starting/README.md)      | [Въвеждаща Презентация за курса](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Introduction-Presentation.pdf)           | [Въвеждаща лекция.](https://www.youtube.com/watch?v=goqd4awJHPA), [Работа с Python IDLE и първите задачи.](https://www.youtube.com/watch?v=xAOEKXdBvEM) |
+| 0       | Сряда - 28.01 | [Задачите се намират тук](week0-Starting/README.md) | [Values, Expressions, Variables, Syntax.](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Values-Expressions-Variables-Syntax.pdf) | Очаква се ... |
 
 ## Програмата
 
