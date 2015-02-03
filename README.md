@@ -5,8 +5,9 @@ Programming0
 
 | Седмица | Занятие | Задачи | Презентация | Видео |
 |---------|-------- |---------|-------------|-------|
-| 0       | Понеделник - 26.01|[Задачите се намират тук](week0-Starting/README.md)      | [Въвеждаща Презентация за курса](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Introduction-Presentation.pdf)           | [Въвеждаща лекция.](https://www.youtube.com/watch?v=goqd4awJHPA), [Работа с Python IDLE и първите задачи.](https://www.youtube.com/watch?v=xAOEKXdBvEM) |
-| 0       | Сряда - 28.01 | [Задачите се намират тук](week0-Starting/README.md) | [Values, Expressions, Variables, Syntax.](https://github.com/HackBulgaria/Programming0-1/raw/master/week0-Starting/Values-Expressions-Variables-Syntax.pdf) | [Работа с текстови файлове](https://www.youtube.com/watch?v=QsEihpjR5Rc&list=PLmpSOHJJON0C_D0VOkUjiFy8s_CesjR2I&index=3), [Syntax, Values, Expressions & Python REPL](https://www.youtube.com/watch?v=NWqpfJrhsMg&index=5&list=PLmpSOHJJON0C_D0VOkUjiFy8s_CesjR2I), [Променливи](https://www.youtube.com/watch?v=87IFH5O5_GE&list=PLmpSOHJJON0C_D0VOkUjiFy8s_CesjR2I&index=7) |
+| 0       | Понеделник - 26.01|[Задачите се намират тук](week0-Starting/README.md)      | [Въвеждаща Презентация за курса](http://slides.com/hackbulgaria/0)           | [Въвеждаща лекция.](https://www.youtube.com/watch?v=goqd4awJHPA), [Работа с Python IDLE и първите задачи.](https://www.youtube.com/watch?v=xAOEKXdBvEM) |
+| 0       | Сряда - 28.01 | [Задачите се намират тук](week0-Starting/README.md) | [Values, Expressions, Variables, Syntax.](http://slides.com/hackbulgaria/deck) | [Работа с текстови файлове](https://www.youtube.com/watch?v=QsEihpjR5Rc&list=PLmpSOHJJON0C_D0VOkUjiFy8s_CesjR2I&index=3), [Syntax, Values, Expressions & Python REPL](https://www.youtube.com/watch?v=NWqpfJrhsMg&index=5&list=PLmpSOHJJON0C_D0VOkUjiFy8s_CesjR2I), [Променливи](https://www.youtube.com/watch?v=87IFH5O5_GE&list=PLmpSOHJJON0C_D0VOkUjiFy8s_CesjR2I&index=7) |
+| 1 | Понеделник - 02.02 | [Задачите се намират по своите папки](https://github.com/HackBulgaria/Programming0-1/tree/master/week1) | [Types. IO. Booleans & If statement](http://slides.com/hackbulgaria/types-io-booleans-if-clause) | Очаква се ... |
 
 ## Програмата
 
