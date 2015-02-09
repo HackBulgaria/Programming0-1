@@ -24,7 +24,7 @@ books = ["Learn You a Haskell",
 
 ```python
 
-nput("Enter count of numbers: ")
+n = input("Enter count of numbers: ")
 n = int(n)
 
 count = 1
