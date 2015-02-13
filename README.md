@@ -11,7 +11,7 @@ Programming0
 | 1 | Сряда - 04.02 | [Задачите се намират по своите папки](https://github.com/HackBulgaria/Programming0-1/tree/master/week1) | [Statements. Boolean operators. While statement](http://slides.com/hackbulgaria/deck-3) | 1. [Обобщение на наученото досега](https://www.youtube.com/watch?v=NNIZqXC218Q) <br /> 2. [Булеви оператори - and, or и not](https://www.youtube.com/watch?v=pRHeefEctr0) <br /> 3. [Statements](https://www.youtube.com/watch?v=rK7NJSxFx0k) <br /> 4. [Цикли. While loop](https://www.youtube.com/watch?v=hbeZA05JNnc) |
 | 1 | Събота - 07.02 | [В събота се решаваха само задачи](week1/5-Saturday-Problems) | [В събота се решаваха само задачи](week1/5-Saturday-Problems) | [В събота се решаваха само задачи](week1/5-Saturday-Problems) |
 | 2 | Понеделник - 09.02 | [Задачите се намират в week2/](week2/) | [Списъци. Оператори и функции над списъци](http://slides.com/hackbulgaria/lists-operators-and-functions-on-lists/) | 1. [Списъци. Оператори и Функции над списъци.](https://www.youtube.com/watch?v=ggtvUC7fErA) <br /> 2. [Индексиране на списъци](https://www.youtube.com/watch?v=6BDY3eimhuM) <br /> 3. [Обхождане на списъци чрез for и while](https://www.youtube.com/watch?v=mxo4AUOMZo8) |
-| 2 | Сряда - 11.02 | [Задачите се намират в week2/](week2/) | [Aлгоритми - въведение](http://slides.com/hackbulgaria/344558) | 1. [Що е то алгоритъм?](https://www.youtube.com/watch?v=oMfwJvC7L_0) | 
+| 2 | Сряда - 11.02 | [Задачите се намират в week2/](week2/) | [Aлгоритми - въведение](http://slides.com/hackbulgaria/344558) | 1. [Що е то алгоритъм?](https://www.youtube.com/watch?v=NHD0_T3yudE) | 
 
 ## Програмата
 
