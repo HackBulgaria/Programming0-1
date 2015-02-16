@@ -45,6 +45,13 @@ count_elements([1, 2, 3]) == 3
 * Функцията връща `True` или `False`.
 * Използвайте оператора `==` за сравнение между елементите.
 
+```python
+member(1, [1,2,3])
+True
+member("Python", ["Django", "Rails"])
+False
+```
+
 ## Студенти с оценка над даден лимит
 
 Напишете функция `grades_that_pass(students, grades, limit)`, където аргументите са:
@@ -59,7 +66,7 @@ count_elements([1, 2, 3]) == 3
 
 Например:
 
-```
+```python
 students = ["Rado", "Ivo", "Maria", "Nina"]
 grades = [3, 4.5, 5.5, 6]
 
