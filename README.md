@@ -12,6 +12,7 @@ Programming0
 | 1 | Събота - 07.02 | [В събота се решаваха само задачи](week1/5-Saturday-Problems) | [В събота се решаваха само задачи](week1/5-Saturday-Problems) | [В събота се решаваха само задачи](week1/5-Saturday-Problems) |
 | 2 | Понеделник - 09.02 | [Задачите се намират в week2/](week2/) | [Списъци. Оператори и функции над списъци](http://slides.com/hackbulgaria/lists-operators-and-functions-on-lists/) | 1. [Списъци. Оператори и Функции над списъци.](https://www.youtube.com/watch?v=ggtvUC7fErA) <br /> 2. [Индексиране на списъци](https://www.youtube.com/watch?v=6BDY3eimhuM) <br /> 3. [Обхождане на списъци чрез for и while](https://www.youtube.com/watch?v=mxo4AUOMZo8) |
 | 2 | Сряда - 11.02 | [Задачите се намират в week2/](week2/) | [Aлгоритми - въведение](http://slides.com/hackbulgaria/344558) | 1. [Що е то алгоритъм?](https://www.youtube.com/watch?v=NHD0_T3yudE) | 
+| 3 | Понеделник - 16.02 | [Задачите се намират в week3/](week3/) | [Functions. Variable Scope.](http://slides.com/hackbulgaria/functions-variable-scope/) | Очаква се ... |
 
 ## Програмата
 
