@@ -14,7 +14,7 @@
 **Например:**
 
 ```python
->>> count_vowels_consonants("аааАcccD")
+>>> count_vowels_consonants("aaaAcccD")
 {
   "vowels": 4,
   "consonants": 4
