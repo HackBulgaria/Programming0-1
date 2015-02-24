@@ -13,6 +13,7 @@ Programming0
 | 2 | Понеделник - 09.02 | [Задачите се намират в week2/](week2/) | [Списъци. Оператори и функции над списъци](http://slides.com/hackbulgaria/lists-operators-and-functions-on-lists/) | 1. [Списъци. Оператори и Функции над списъци.](https://www.youtube.com/watch?v=ggtvUC7fErA) <br /> 2. [Индексиране на списъци](https://www.youtube.com/watch?v=6BDY3eimhuM) <br /> 3. [Обхождане на списъци чрез for и while](https://www.youtube.com/watch?v=mxo4AUOMZo8) |
 | 2 | Сряда - 11.02 | [Задачите се намират в week2/](week2/) | [Aлгоритми - въведение](http://slides.com/hackbulgaria/344558) | 1. [Що е то алгоритъм?](https://www.youtube.com/watch?v=NHD0_T3yudE) | 
 | 3 | Понеделник - 16.02 | [Задачите се намират в week3/](week3/) | [Functions. Variable Scope.](http://slides.com/hackbulgaria/functions-variable-scope/) | 1. [Мотивация и интуиция за функциите.](https://www.youtube.com/watch?v=uOt89FNUe7E) <br /> 2.[Синтаксис на функциите.](https://www.youtube.com/watch?v=GxgMEm18VPg) <br /> 3. [Функции в различни примери.](https://www.youtube.com/watch?v=xAYTtrZgWOE) <br /> 4. [Видимост на променливите. Глобални и Локални променливи.](https://www.youtube.com/watch?v=Ae--WsQHG2w) |
+| 4 | Понеделник - 23.02 | [Речници.](http://slides.com/hackbulgaria/8) | [Задачите се намират в week4/](week4/) | 1. [Мотивация и интуиция за речници.](https://www.youtube.com/watch?v=UjeZ-aXQgKc) <br /> 2. [Синтаксис на речници в Python](https://www.youtube.com/watch?v=U7NcF8lsPo4) |
 
 ## Програмата
 
