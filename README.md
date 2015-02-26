@@ -14,6 +14,7 @@ Programming0
 | 2 | Сряда - 11.02 | [Задачите се намират в week2/](week2/) | [Aлгоритми - въведение](http://slides.com/hackbulgaria/344558) | 1. [Що е то алгоритъм?](https://www.youtube.com/watch?v=NHD0_T3yudE) | 
 | 3 | Понеделник - 16.02 | [Задачите се намират в week3/](week3/) | [Functions. Variable Scope.](http://slides.com/hackbulgaria/functions-variable-scope/) | 1. [Мотивация и интуиция за функциите.](https://www.youtube.com/watch?v=uOt89FNUe7E) <br /> 2.[Синтаксис на функциите.](https://www.youtube.com/watch?v=GxgMEm18VPg) <br /> 3. [Функции в различни примери.](https://www.youtube.com/watch?v=xAYTtrZgWOE) <br /> 4. [Видимост на променливите. Глобални и Локални променливи.](https://www.youtube.com/watch?v=Ae--WsQHG2w) |
 | 4 | Понеделник - 23.02 | [Речници.](http://slides.com/hackbulgaria/8) | [Задачите се намират в week4/](week4/) | 1. [Мотивация и интуиция за речници.](https://www.youtube.com/watch?v=UjeZ-aXQgKc) <br /> 2. [Синтаксис на речници в Python](https://www.youtube.com/watch?v=U7NcF8lsPo4) |
+| 5 | Сряда - 25.02 | [Решаване на задачи и алгоритми част втора. Вложени цикли.](http://slides.com/hackbulgaria/deck-9/fullscreen) | [Задачите се намират в week4/](week4/) | Очаква се | 
 
 ## Програмата
 
