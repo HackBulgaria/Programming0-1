@@ -12,7 +12,7 @@
 ["Rado", "Ivo", "Maria", "Anneta", "Rado", "Rado", "Anneta", "Ivo", "Maria", "Rado"]
 ```
 
-Общата бройка на отделните хора в горния списък е 4.
+**Общата бройка на отделните хора в горния списък е 4.**
 
 Във файл `people_count.py`, напишете функция `get_people_count(activity)`, където:
 
