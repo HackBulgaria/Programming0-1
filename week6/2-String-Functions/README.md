@@ -79,6 +79,18 @@ def change_at(index, ch, string):
 
 Тогава ще може да направим: `join("|", [1, 2, 3])`, което ще даде резултат `"1|2|3"`
 
+Например:
+
+```python
+>>> join(" ", ["Radoslav", "Yordanov", "Georgiev"])
+'Radoslav Yordanov Georgiev'
+>>> join("\n", ["line1", "line2"])
+'line1\nline2'
+>>> print(join("\n", ["line1", "line2"]))
+line1
+line2
+```
+
 ## startswith
 
 Напишете функцията `startswith(search, string)`, която проверява дали `string`, започва с низа `search`.
