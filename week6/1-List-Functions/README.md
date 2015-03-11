@@ -114,7 +114,7 @@ True
 
 ```python
 >>> reverse(["Speak", "in", "reverse", "you", "must!"])
-["must!, "you", "reverse", "in", "Speak"]
+["must!", "you", "reverse", "in", "Speak"]
 >>> reverse([1, 2, 3])
 [3, 2, 1]
 >>> reverse([])
