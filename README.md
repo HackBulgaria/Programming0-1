@@ -15,11 +15,13 @@ Programming0
 | 3 | Понеделник - 16.02 | [Задачите се намират в week3/](week3/) | [Functions. Variable Scope.](http://slides.com/hackbulgaria/functions-variable-scope/) | 1. [Мотивация и интуиция за функциите.](https://www.youtube.com/watch?v=uOt89FNUe7E) <br /> 2.[Синтаксис на функциите.](https://www.youtube.com/watch?v=GxgMEm18VPg) <br /> 3. [Функции в различни примери.](https://www.youtube.com/watch?v=xAYTtrZgWOE) <br /> 4. [Видимост на променливите. Глобални и Локални променливи.](https://www.youtube.com/watch?v=Ae--WsQHG2w) |
 | 3 | Сряда - 18.02 | [Курсистите сами мислеха задачи](week3/4-Problems-Construction) | Няма презентация | Няма видео |
 | 3 | Събота - 21.02 | [Курсистите решаваха задачи с това, което са измислили](week3/4-Problems-Construction) | Няма презентация | Няма видео |
-| 4 | Понеделник - 23.02 | [Речници.](http://slides.com/hackbulgaria/8) | [Задачите се намират в week4/](week4/) | 1. [Мотивация и интуиция за речници.](https://www.youtube.com/watch?v=UjeZ-aXQgKc) <br /> 2. [Синтаксис на речници в Python](https://www.youtube.com/watch?v=U7NcF8lsPo4) |
-| 4 | Сряда - 25.02 | [Решаване на задачи и алгоритми част втора. Вложени цикли.](http://slides.com/hackbulgaria/deck-9/fullscreen) | [Задачите се намират в week4/](week4/) | Очаква се | 
+| 4 | Понеделник - 23.02 |[Задачите се намират в week4/](week4/) | [Речници.](http://slides.com/hackbulgaria/8) | 1. [Мотивация и интуиция за речници.](https://www.youtube.com/watch?v=UjeZ-aXQgKc) <br /> 2. [Синтаксис на речници в Python](https://www.youtube.com/watch?v=U7NcF8lsPo4) |
+| 4 | Сряда - 25.02 | [Задачите се намират в week4/](week4/) | [Решаване на задачи и алгоритми част втора. Вложени цикли.](http://slides.com/hackbulgaria/deck-9/fullscreen) | Очаква се | 
 | 5 | Понеделник - 02.03 | Почивен ден, нямаше занятия | Почивен ден, нямаше занятия | Почивен ден, нямаше занятия |
-| 5 | Сряда - 04.03 | [Още задачи с вложени алгоритми. Що е то матрица?](http://slides.com/hackbulgaria/deck-9/fullscreen#/28) | [Задачите се намират в week5/](week5/) | Очаква се |
-| 5 | Събота - 07.03 | Решаване на задачи с вложени цикли | [Задачите се намират в week5/](week5/) | Очаква се |
+| 5 | Сряда - 04.03 |  [Задачите се намират в week5/](week5/) | [Още задачи с вложени цикли.. Що е то матрица?](http://slides.com/hackbulgaria/deck-9/fullscreen#/28) | Очаква се |
+| 5 | Събота - 07.03 |[Задачите се намират в week5/](week5/) | Решаване на задачи с вложени цикли | Очаква се |
+| 6 | Понеделник - 09.03 | [Стефан Кънев](https://github.com/skanev) ни беше на гости | [Стефан Кънев](https://github.com/skanev) ни беше на гости | [Стефан Кънев](https://github.com/skanev) ни беше на гости | [Стефан Кънев](https://github.com/skanev) ни беше на гости |
+| 6 | Сряда - 11.03 | [Решаване на задачи със списъци и низове](week6/) | Няма мов материал / видео | Няма мов материал / видео |
 
 ## Програмата
 
