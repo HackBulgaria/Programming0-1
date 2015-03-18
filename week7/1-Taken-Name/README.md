@@ -8,10 +8,10 @@
 **Примери:**
 
 ```python
-taken_name("Petrov", "Petrova")
+>>> taken_name("Petrov", "Petrova")
 True
-taken_name("Ivanov", "Tsvetanova")
+>>> taken_name("Ivanov", "Tsvetanova")
 False
-taken_name("Petrov", "Ivanova-Petrova")
+>>> taken_name("Petrov", "Ivanova-Petrova")
 True
 ```
