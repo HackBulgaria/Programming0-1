@@ -23,4 +23,5 @@
 
 ## Подсказка
 
-Вижте решението на **Tic Tac Toe** задачата
+[Вижте решението на **Tic Tac Toe** задачата](https://github.com/HackBulgaria/Programming0-1/blob/master/week6/4-Print-Tic-Tac-Toe/solution/tic.py)
+
