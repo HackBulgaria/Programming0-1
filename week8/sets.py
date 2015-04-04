@@ -25,3 +25,7 @@ def main():
     print(intersection([0, 0, 1, 2, 5], [5, 5, 6]) == [5])
     print(diff([0, 1, 2, 3, 4, 5], [0, 0, 1, 1, 2, 2, 3, 3]) == [4, 5])
     print(cartesian_product([0, 1], [1]) == [(0, 1), (1, 1)])
+
+
+if __name__ == '__main__':
+    main()
