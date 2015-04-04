@@ -17,9 +17,8 @@ def selection_sort_that_destroys(numbers):
 
     while len(result) != n:
         current_min_index = min_index(numbers)
-        result.append(arr[current_min_index])
-        del arr[current_min_index]
-    
+        result.append(numbers[current_min_index])
+        del numbers[current_min_index]
 
     return result
 
@@ -33,7 +32,7 @@ def swap(i, j, items):
 def min_index_from(start_index, items):
     result = start_index
     n = len(items)
-    
+
     for index in range(start_index, n):
         if items[index] < items[result]:
             result = index
@@ -53,14 +52,3 @@ def selection_sort_that_mutates(numbers):
 a = [100, 0, -10, 5]
 selection_sort_that_mutates(a)
 print(a)
-
-
-
-
-
-
-
-
-
-
-
