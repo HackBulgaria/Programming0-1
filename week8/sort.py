@@ -49,6 +49,42 @@ def selection_sort_that_mutates(numbers):
         swap(i, index_of_min_from_i, numbers)
 
 
-a = [100, 0, -10, 5]
-selection_sort_that_mutates(a)
+def diff(a, b):
+    result = []
+
+    for item in a:
+        if item not in b:
+            result.append(item)
+
+    return result
+
+
+def min_index_without_used(numbers, used):
+    unused_indexes = diff(range(0, len(numbers)), used)
+
+    min_index = unused_indexes[0]
+
+    for index in unused_indexes:
+        if numbers[index] < numbers[min_index]:
+            min_index = index
+
+    return min_index
+
+
+def selection_sort(numbers):
+    result = []
+    n = len(numbers)
+    used = []
+
+    while len(result) != n:
+        min_index = min_index_without_used(numbers, used)
+        used.append(min_index)
+        result.append(numbers[min_index])
+
+    return result
+
+
+a = [100, 0, 0, -10, 5]
+b = selection_sort(a)
 print(a)
+print(b)
